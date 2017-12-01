@@ -4,9 +4,7 @@ This is our boilerplate for creating truffle contracts that we use at Hashex.org
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+This is a boilerpate to quick start smart contracts development in Solidity. Boileplate uses truffle 4, solidy-coverage, has samples for smart contract and tests for it.
 
 ### Set up ###
 
