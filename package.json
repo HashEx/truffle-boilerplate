@@ -1,7 +1,7 @@
 {
-  "name": "iq300-contracts",
+  "name": "Truffle Boilerplate",
   "version": "1.0.0",
-  "description": "iq300 ico contracts repo",
+  "description": "Boilerplate to quick start developing smart contracts with truffle",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
