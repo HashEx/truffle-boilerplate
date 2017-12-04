@@ -1,12 +1,13 @@
 pragma solidity ^0.4.18;
 
-import 'zeppelin-solidity/contracts/token/MintableToken.sol';
+import "zeppelin-solidity/contracts/token/MintableToken.sol";
+
 
 contract ExampleToken is MintableToken {
 
-	string public constant name = "ExampleToken";
-	string public constant symbol = "EXT";
-	uint8 public constant decimals = 3;
+	string public name = "ExampleToken";
+	string public symbol = "EXT";
+	uint8 public decimals = 3;
 
 	uint256 public constant INITIAL_SUPPLY = 1000;
 
