@@ -1,12 +1,12 @@
 # HashEx Truffle Boilerplate #
 
-This is the HashEx boilerplate for creating truffle contracts
+This is the HashEx boilerplate for creating truffle contracts.
 
 Repository comes with preinstalled and confirured test coverage report, linter and unit test helpers.
 
 Pull requests are appreciated.
 
-Copyright © 2017 HashEx.org, GPLv3
+Copyright © 2018 HashEx.org, GPLv3
 
 ### What is this repository for? ###
 
