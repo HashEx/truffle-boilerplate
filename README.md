@@ -2,7 +2,7 @@
 
 This is the HashEx boilerplate for creating truffle contracts.
 
-Repository comes with preinstalled and confirured test coverage report, linter and unit test helpers.
+Repository comes with preinstalled and configured test coverage report, linter and unit test helpers.
 
 Pull requests are appreciated.
 
@@ -10,7 +10,7 @@ Copyright © 2018 HashEx.org, GPLv3
 
 ### What is this repository for? ###
 
-This is a boilerpate to quick start smart contracts development in Solidity. Boileplate uses truffle 4, solidy-coverage, solium linter, has samples for smart contract and tests for it.
+This is a boilerplate to quick start smart contracts development in Solidity. Boilerplate uses truffle 4, solidity-coverage, solium linter, has samples for smart contract and tests for it.
 
 ### Setting up ###
 
